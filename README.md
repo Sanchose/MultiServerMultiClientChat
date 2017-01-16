@@ -7,6 +7,7 @@ For this application, I have implemented multi-server chat with reliability and 
 
 Design Approach and Justification: 
 I developed this application in python. I have three applications for 
+
 •	Client 
 •	Front-end server 
 •	Back-end server (1-4)
